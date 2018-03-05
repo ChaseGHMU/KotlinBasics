@@ -1,3 +1,8 @@
+/**
+ * We declare a package-level function main which returns Unit and takes
+ * an Array of strings as a parameter. Note that semicolons are optional.
+ */
+
 fun main(args: Array<String>) {
     val sample1: Byte = 0x3A
     var sample2: Byte = 58
